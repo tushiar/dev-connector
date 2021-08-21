@@ -1,4 +1,4 @@
-import axios from "../axios";
+import axios from "axios";
 import { setAlert } from './alert'
 import { ADD_COMMENT, ADD_POST, DELETE_COMMENT, DELETE_POST, GET_POST, GET_POSTS, POST_ERROR, SET_ALERT, UPDATE_LIKES } from './types'
 
